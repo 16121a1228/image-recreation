@@ -1,0 +1,53 @@
+body{
+    background-image:url("https://images.theconversation.com/files/228194/original/file-20180718-142435-176mlrj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip");
+    backdrop-filter: blur(10px);
+  }
+  table{
+  
+      width:100%;
+      border-collapse:collapse;    
+  }
+    
+  
+    th{
+       color:white;  
+      font-size:50px;
+      text-align: center;
+      }
+  
+    #tr1{
+      border-bottom:1px solid white;
+      padding: 20px;
+    }
+    #tr2{
+      border-bottom:1px solid white;
+      padding: 10px;
+    }    
+    img{
+    width:100px;
+    height:100px;
+    }
+    div{
+      font-size: 30px;
+      color: White; 
+      font-family:Times new roman;
+    }
+    ul{
+         color: white; 
+      font-family:Times new roman;
+      font-size: 20px;
+    }
+    #div11,#div21,#div31{
+      text-align: left;
+      color:white;  
+      font-size: 50px;
+    }
+    #div12,#div22{
+      text-align: left;
+      color:white;  
+      font-size: 18px;
+    }
+  
+    #td12,#td22,#td32{
+  padding-right: 50px;
+    }
